@@ -10,10 +10,10 @@
 ``````````````````````````````````````
 Using Gradle 3.2.1
 ````````````````````````````````````````
-### Java
-
+#### Java
+````````````````````````````````````````
 Using jdk 1.8
 ````````````````````````````````````````
 ### Git
-
-#### Use git clone:"https://github.com/guiborgesTi/mars-rover-zup.git" for download of project
+````````````````````````````````````````
+ Use git clone:"https://github.com/guiborgesTi/mars-rover-zup.git" for download of project
