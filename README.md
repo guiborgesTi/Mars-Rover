@@ -1,4 +1,4 @@
-# Projeto Mars Rove
+# Projeto Mars Rover
 
 ## Autor: Guilherme Alves
 
