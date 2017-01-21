@@ -1,0 +1,29 @@
+!SESSION 2017-01-18 14:51:39.796 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.springsource.ide.eclipse.gradle.core 4 0 2017-01-18 14:53:01.846
+!MESSAGE Invalid project description.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Invalid project description.
+	at org.eclipse.core.internal.resources.Project.checkDescription(Project.java:169)
+	at org.eclipse.core.internal.resources.Project.assertCreateRequirements(Project.java:53)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:263)
+	at org.eclipse.core.internal.resources.Project.create(Project.java:247)
+	at org.springsource.ide.eclipse.gradle.core.wizards.GradleImportOperation.importProject(GradleImportOperation.java:368)
+	at org.springsource.ide.eclipse.gradle.core.wizards.GradleImportOperation.perform(GradleImportOperation.java:185)
+	at org.springsource.ide.eclipse.gradle.ui.wizards.GradleImportWizard$1.doit(GradleImportWizard.java:66)
+	at org.springsource.ide.eclipse.gradle.core.util.GradleRunnable$1.run(GradleRunnable.java:53)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Contains: OK
+Contains: /media/guilheme/59B69E363D5649F5/workspaces/mars-rover-zup overlaps the workspace location: /media/guilheme/59B69E363D5649F5/workspaces/mars-rover-zup
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2017-01-18 14:53:01.848
+!MESSAGE Invalid project description.
+!SUBENTRY 2 unknown 0 0 2017-01-18 14:53:01.848
+!MESSAGE OK
+!SUBENTRY 2 org.eclipse.core.resources 4 77 2017-01-18 14:53:01.848
+!MESSAGE /media/guilheme/59B69E363D5649F5/workspaces/mars-rover-zup overlaps the workspace location: /media/guilheme/59B69E363D5649F5/workspaces/mars-rover-zup
