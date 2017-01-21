@@ -3,6 +3,7 @@
  * @Author: Guilherme Alves
  * 
  */
+
 package br.com.model;
 
 //Possíveis ações do rover

@@ -8,9 +8,7 @@ package br.com.controller;
 
 import java.util.ArrayList;
 import java.util.List;
-
 import javax.swing.JOptionPane;
-
 import br.com.model.Command;
 import br.com.model.Direction;
 import br.com.model.Position;
@@ -109,7 +107,6 @@ public class Rover {
 		} catch (IllegalArgumentException e) {
 			throw new IllegalArgumentException();
 		}
-
 		return print();
 	}
 
