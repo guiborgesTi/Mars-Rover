@@ -57,8 +57,5 @@ public class Position {
 	
 	public void decrementX() {
 		this.x--;
-	}
-	
-	
-	
+	}	
 }

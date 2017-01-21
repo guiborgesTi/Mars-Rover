@@ -3,6 +3,7 @@
  * @Author: Guilherme Alves
  * 
  */
+
 package br.com.view;
 
 import br.com.controller.Rover;
@@ -12,6 +13,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		System.out.println("Saída");
+		
 		/*
 		 * Rover rover = new Rover(1, 2, Direction.N); String lastPosition =
 		 * rover.start("MMRMMRMRRM"); 
