@@ -4,10 +4,10 @@
 
 ## Especificações Do Projeto
 
-Instruções para implatar o projeto.
-````````````````````````````````````````
-### Gradle
+### Instruções para implatar o projeto.
 
+#### Gradle
+``````````````````````````````````````
 Using Gradle 3.2.1
 ````````````````````````````````````````
 ### Java
